@@ -11,7 +11,7 @@ const codeloccol = {
 };
 */
 
-const codeloccol = { // le mot clé export veut dire on peut exporter l'objet codeloccol dans n'importe quel fichier dont on souhaite.
+const codeloccol = {
     name: 'Coder',
     legs: 4,
     tails: 1,
